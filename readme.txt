@@ -17,4 +17,3 @@
 - hospital.csv：医院名称数据，为2022021931-作品.ipynb所使用
 - department_dict.txt：科室称谓数据，为2022021931-作品.ipynb所使用
 - department.csv：科室称谓数据，为2022021931-作品.ipynb所使用
-- 2022021931--答辩PPT.pdf：答辩所用pdf
