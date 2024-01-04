@@ -3,7 +3,6 @@
 本作品通过设计和研发网上预约挂号聊天机器人，充分发挥计算机强大的信息检索与处理能力，打破了各医院预约挂号系统间的壁垒。将所有可查询到的医院信息集成于一体，为用户查询各医院的号源信息，提供更加便捷的“一站式”挂号信息查询服务。
 
 主要设计思路如下：
-![plot](https://github.com/Xin-tong-Jiang/2022-Online-Appointment-Booking-Chatbot--DABAl/blob/main/Design%20Framework.png)
 
 文件说明：
 - 2022021931--作品.ipynb：作品
