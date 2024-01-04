@@ -1,7 +1,7 @@
 本作品为2022中国大学生计算机设计大赛——AI实践赛参赛作品，最终在比赛中获得国家三等奖。
 
 主要设计思路如下：
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![plot](./Design Framework.png)
 
 文件说明：
 - 2022021931--作品.ipynb：作品
